@@ -51,3 +51,4 @@ class Team {
 ```
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/xs7lk9c3r4772r78/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-11-2/branch/main)
